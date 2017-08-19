@@ -1,0 +1,1 @@
+Unzip ./data/sample.txt.zip before running sketch.

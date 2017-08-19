@@ -1,0 +1,8 @@
+Stage Width
+1112
+
+Stage Height
+1404
+
+Filename
+sample.txt
